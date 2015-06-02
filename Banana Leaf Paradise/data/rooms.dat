@@ -1,0 +1,185 @@
+Room Name: Room 1
+Room Description:  The sand is wet, and you can see fields of banana trees ahead.
+Room Items: None
+Exit Rooms: N-Room 2
+Room Name: Room 2
+Room Description:  The soil feels rich, and the banana trees surrounds you.
+Room Items: None
+Exit Rooms: W-Room 4, N-Room 11, E-Room 19, S-Room 1
+Room Name: Room 3
+Room Description:  You walk along the coast, ocean mist sprays into you face
+Room Items: None
+Exit Rooms: W-Room 4, E-Room2, N-Room 10
+Room Name: Room 4
+Room Description:  You walk along the coast, crabs scurry around you.
+Room Items: Crab
+Exit Rooms: N-Room 5, E-Room 3
+Room Name: Room 5
+Room Description:  The Banana leaves tickle your face as you walk. You can faintly see a glimmer 
+Room Items: None
+Exit Rooms: N-Room 6, E-Room 10, W-Room 20, S-Room 
+Room Name: Room 6
+Room Description:  The smell of bananas is overpowering as you walk through the jungle
+Room Items: None
+Exit Rooms: N-Room 7, E-Room 9, W-Room21, S-Room5
+Room Name: Room 7
+Room Description:  Ahead are steep Coon Cliffs. Poontang Banana County lies behind you.
+Room Items: None
+Exit Rooms: E-Room 8, W-Room 22, S-Room 6
+Room Name: Room 8
+Room Description:   Ahead are steep Coon Cliffs. Poontang Banana County lies behind you.
+Room Items: None
+Exit Rooms: E-Room 13, W-Room 7, S-Room 9
+Room Name: Room 9
+Room Description:   The dense jungle surrounds you. You see a faint glimmer in the grass to the south
+Room Items: None
+Exit Rooms: N-Room 8, W-Room 6, S-Room 10, E-Room 12
+Room Name: Room 10
+Room Description:   Amidst the banana laden jungle, you locate a small key.
+Room Items: Key 
+Exit Rooms: N-Room 9, E-Room 11, W-Room 5, S-Room 3
+Room Name: Room 11
+Room Description:   Dense jungle surrounds you. You notice a small shine to your west.
+Room Items: None
+Exit Rooms: N-Room 12, E-Room 18, W-Room 10, S-Room 2
+Room Name: Room 12
+Room Description:   You stumble upon the trunk of an enormous tree. 
+Room Items: None
+Exit Rooms: N-Room 13, E-Room 17, W-Room 9, S-Room 11, U-Room 44
+Room Name: Room 13
+Room Description:   The sticky bananas irritate your skin as you walk amongst the jungle. You see a huge tree to your south. 
+Room Items: None
+Exit Rooms: N-Room 14, E-Room 16, W-Room 8, S-Room 12
+Room Name: Room 14
+Room Description:   Steep Coon Cliffs lay north and the sticky Banana Jungle lay South. A strong grunt is making you nervous. 
+Room Items: None
+Exit Rooms: E-Room 15,  S-Room 13
+Room Name: Room 15
+Room Description:   Your find a key precariously perched on the Coon Cliffs. A giant rouge Capybara  is guarding it.
+Room Items: Key
+Exit Rooms:  W-Room 14, S-Room 16
+Room Name: Room 16
+Room Description:   You walk along the beach. A towering spine of cliffs dominate the north.
+Room Items: None
+Exit Rooms: N-Room 15, W-Room 13, S-Room 17
+Room Name: Room 17
+Room Description:   You walk along the coast with the ocean to your east. A huge tree dominates the canopy to your west.
+Room Items: None
+Exit Rooms: N-Room 16, W-Room 12, S-Room 18
+Room Name: Room 18
+Room Description:   You walk along the coast with the ocean to your east. Small crabs scurry beneath you.
+Room Items: Crab
+Exit Rooms: N-Room 17, W-Room 11, S-Room 19
+Room Name: Room 19
+Room Description:   You walk along the coast, the sand wet beneath your feet.
+Room Items: None
+Exit Rooms: N-Room 18, W-Room 2,
+Room Name: Room 20
+Room Description:   You walk along the coast, the sand wet beneath your feet.
+Room Items: None
+Exit Rooms: N-Room 21, E-Room 5
+Room Name: Room 21
+Room Description:   You reach the edge of the Ganja Plateau. Lush jungles lie east. 
+Room Items: None
+Exit Rooms: N-Room 22, E-Room 6, W-Room 25, S-Room 20
+Room Name: Room 22
+Room Description:   As you trek the plateau, a strong wind blows from the north. 
+Room Items: None
+Exit Rooms: N-Room 23, E-Room 7, W-Room 24, S-Room 21
+Room Name: Room 23
+Room Description:   You come upon the legendary Kush Kaverns. Haunting cries echo from below. 
+Room Items: None
+Exit Rooms: S-Room 3, D-Room36
+Room Name: Room 24
+Room Description:   You walk along the plateau, with steep cliffs to the north. 
+Room Items: None
+Exit Rooms: E-Room 22, W-Room 26, S-Room 25
+Room Name: Room 25
+Room Description:  You walk along the beach, the ocean to the south and rising plateau to the north.
+Room Items: None
+Exit Rooms: N-Room 24 , E-Room 21, W-Room 27
+Room Name: Room 26 
+Room Description:   You walk along the beach with the ocean to your north and west. The sand is very, very, very damp. A
+Room Items: None
+Exit Rooms: E-Room 24, S-Room 27
+Room Name: Room 27
+Room Description:  You walk along the rocky plateau. To the east, a questionable bridge spans over a sheer drop. 
+Room Items: None
+Exit Rooms: N-Room 26, E-Room 25, W-Room 28
+Room Name: Room 28
+Room Description:   You walk across the Rachet Rail. Huge cross-winds threaten to fling you off to your death.
+Room Items: None
+Exit Rooms: E-Room 27, S-Room 29
+Room Name: Room 29
+Room Description:   You walk across the Rachet Rail. Huge cross-winds threaten to fling you off to your death.
+Room Items: None
+Exit Rooms: N-Room 28, S-Room 30
+Room Name: Room 30
+Room Description:   You stand at the rim of the Cat Hole Plateau. The north yields the Rachet Rail. You see a key to the east, on the stomach of a troll.
+Room Items: None
+Exit Rooms: N-Room 29, E-Room 31, W-Room 34, S-Room 32
+Room Name: Room 31
+Room Description:   You find a key on the stomach of the troll.
+Room Items: Key 
+Exit Rooms: W-Room 30
+Room Name: Room 32 
+Room Description:   The sand replaced the stone, as you descend from the plateau. Ocean lay to your east and south.
+Room Items: None
+Exit Rooms: N-Room 30, W-Room 33
+Room Name: Room 33
+Room Description:   The boat you've been seeking lies to the south. You tear up at the sight of it's glistening sails. 
+Room Items: None
+Exit Rooms: N-Room 34, E-Room 32, S-Room 35
+Room Name: Room 34
+Room Description:   The soft beach sand reveals conch shells. The north slops to a cliff. 
+Room Items: None
+Exit Rooms: E-Room 30, S-Room 33
+Room Name: Room 35
+Room Description:  You have reached the boat!!!
+Room Items: None
+Exit Rooms: N-Room 33
+Room Name: Room 36
+Room Description:   You descend into the pits of the cavern. You notice Ganja plants growing of the walls.
+Room Items: None
+Exit Rooms: U-Room23, S-Room 37
+Room Name: Room 37
+Room Description:   The darkness of the cavern has become apparent to you. You notice a faint light at the end of a long chameber leading east. 
+Room Items: None
+Exit Rooms: N-Room 36, E-Room 38
+Room Name: Room 38
+Room Description:   You walk through Kush Kavern, cloaked in darkness. The light to the east is growing stronger and you can hear faint whispers. 
+Room Items: None
+Exit Rooms: E-Room 39, W-Room 37
+Room Name: Room 39
+Room Description:   You walk through Kush Cavern. The is very intense now, and the cave seems to open up further east.
+Room Items: None
+Exit Rooms: E-Room 40, W-Room 38
+Room Name: Room 40
+Room Description:  The Kush Kavern opens up around you. The floor is carpeted in Ganja plants. The light seems to be coming from the north eastern part of the cave.
+Room Items: None  
+Exit Rooms: N-Room 41, E-Room 43, W-Room 39
+Room Name: Room 41
+Room Description:  The dark, moist, tall, walls of the cave corner you here. There is light emanating from the pool to your east.
+Room Items: None
+Exit Rooms:  E-Room 42, S-Room 40
+Room Name: Room 42
+Room Description:  You enter the pool and capture the key that had been floating within it. You hear a gurgle from below and witness a leopard seal emerge from the pool.
+Room Items: Key
+Exit Rooms: W-Room 41, S-Room 43
+Room Name: Room 43
+Room Description:   The dark, moist shaggy carpet of the cave floor is tickling your feet as you walk. There is a bright light coming from a pool to the north. 
+Room Items: None
+Exit Rooms: N-Room 42, W-Room 40,
+Room Name: Room 44
+Room Description:   You start to climb the colossal tree.
+Room Items: None
+Exit Rooms: U-Room 45, D-Room 12
+Room Name: Room 45
+Room Description:   You are now halfway up the giant tree. Branches with small round fruit are hitting you and you hear howls coming from above. 
+Room Items: Fruit
+Exit Rooms: U-Room 46, D-Room 44
+Room Name: Room 46
+Room Description:   You reach the canopy of the Tree. There is a key lying atop a sword. There is a muscular Howler Monkey staring you down.
+Room Items: Key
+Exit Rooms:  D-Room 45
+
