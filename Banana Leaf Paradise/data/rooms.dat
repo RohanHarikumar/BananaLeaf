@@ -89,7 +89,7 @@ Exit Rooms: N-Room 23, E-Room 7, W-Room 24, S-Room 21
 Room Name: Room 23
 Room Description:   You come upon the legendary Kush Kaverns. Haunting cries echo from below. 
 Room Items: None
-Exit Rooms: S-Room 3, D-Room36
+Exit Rooms: S-Room 22, D-Room 36
 Room Name: Room 24
 Room Description:   You walk along the plateau, with steep cliffs to the north. 
 Room Items: None
@@ -136,12 +136,12 @@ Room Items: None
 Exit Rooms: E-Room 30, S-Room 33
 Room Name: Room 35
 Room Description:  You have reached the boat!!!
-Room Items: None
+Room Items: Boat
 Exit Rooms: N-Room 33
 Room Name: Room 36
 Room Description:   You descend into the pits of the cavern. You notice Ganja plants growing of the walls.
 Room Items: None
-Exit Rooms: U-Room23, S-Room 37
+Exit Rooms: U-Room 23, S-Room 37
 Room Name: Room 37
 Room Description:   The darkness of the cavern has become apparent to you. You notice a faint light at the end of a long chameber leading east. 
 Room Items: None
